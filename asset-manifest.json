@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_eu_1_dsimonaits/static/css/main.6dc808e9.css",
-    "main.js": "/react_node_eu_1_dsimonaits/static/js/main.2b5e2780.js",
+    "main.js": "/react_node_eu_1_dsimonaits/static/js/main.6cbaf0cb.js",
     "static/js/900.1545ad83.chunk.js": "/react_node_eu_1_dsimonaits/static/js/900.1545ad83.chunk.js",
     "static/js/951.2303e8f5.chunk.js": "/react_node_eu_1_dsimonaits/static/js/951.2303e8f5.chunk.js",
     "static/css/965.d2f241c6.chunk.css": "/react_node_eu_1_dsimonaits/static/css/965.d2f241c6.chunk.css",
@@ -66,7 +66,7 @@
     "static/media/eye-password-hide.svg": "/react_node_eu_1_dsimonaits/static/media/eye-password-hide.eafe2e1da5572a449e7276729a5c8a35.svg",
     "static/media/email.svg": "/react_node_eu_1_dsimonaits/static/media/email.df88736263a8b441b17ac7d6b5843f63.svg",
     "main.6dc808e9.css.map": "/react_node_eu_1_dsimonaits/static/css/main.6dc808e9.css.map",
-    "main.2b5e2780.js.map": "/react_node_eu_1_dsimonaits/static/js/main.2b5e2780.js.map",
+    "main.6cbaf0cb.js.map": "/react_node_eu_1_dsimonaits/static/js/main.6cbaf0cb.js.map",
     "900.1545ad83.chunk.js.map": "/react_node_eu_1_dsimonaits/static/js/900.1545ad83.chunk.js.map",
     "951.2303e8f5.chunk.js.map": "/react_node_eu_1_dsimonaits/static/js/951.2303e8f5.chunk.js.map",
     "965.d2f241c6.chunk.css.map": "/react_node_eu_1_dsimonaits/static/css/965.d2f241c6.chunk.css.map",
@@ -89,6 +89,6 @@
   },
   "entrypoints": [
     "static/css/main.6dc808e9.css",
-    "static/js/main.2b5e2780.js"
+    "static/js/main.6cbaf0cb.js"
   ]
 }
